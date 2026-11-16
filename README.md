@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🐍 Step 1: Install Anaconda
 
 Anaconda is a free and open-source distribution of Python that simplifies package management and deployment.
@@ -123,3 +124,6 @@ Once the Flask server is running, open your browser and go to:
 👉 http://127.0.0.1:5000
 
 You should see your Flask application running locally!
+=======
+# SmartSorting_Project
+>>>>>>> d7527f93f81729baf4df054d340fe6057d10b30e
